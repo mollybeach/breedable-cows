@@ -1,0 +1,12 @@
+{
+  "name": "breedable-cows",
+  "version": "1.0.0",
+  "description": "mix dna between cow critters",
+  "main": "breedcows.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Molly Beach",
+  "license": "ISC"
+}

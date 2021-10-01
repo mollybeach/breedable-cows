@@ -1,0 +1,170 @@
+[
+  {
+    "dna": [
+      "CT",
+      "TT",
+      "CT",
+      "GT",
+      "TC",
+      "CC",
+      "CC",
+      "CC",
+      "AC",
+      "AC",
+      "CA",
+      "AC",
+      "CG",
+      "GC",
+      "CG",
+      "GC"
+    ],
+    "birthdate": 1633121701000
+  },
+  {
+    "dna": [
+      "CT",
+      "TT",
+      "TC",
+      "TG",
+      "TC",
+      "CC",
+      "CC",
+      "CC",
+      "CA",
+      "AC",
+      "AC",
+      "CA",
+      "CG",
+      "GC",
+      "GC",
+      "CG"
+    ],
+    "birthdate": 1633121742000
+  },
+  {
+    "dna": [
+      "TC",
+      "TT",
+      "TC",
+      "TG",
+      "TC",
+      "CC",
+      "CC",
+      "CC",
+      "CA",
+      "CA",
+      "AC",
+      "AC",
+      "GC",
+      "CG",
+      "CG",
+      "GC"
+    ],
+    "birthdate": 1633121749000
+  },
+  {
+    "dna": [
+      "CT",
+      "TT",
+      "TC",
+      "GT",
+      "TC",
+      "CC",
+      "CC",
+      "CC",
+      "AC",
+      "CA",
+      "CA",
+      "CA",
+      "CG",
+      "GC",
+      "GC",
+      "CG"
+    ],
+    "birthdate": 1633121784000
+  },
+  {
+    "dna": [
+      "CT",
+      "TT",
+      "CT",
+      "GT",
+      "TC",
+      "CC",
+      "CC",
+      "CC",
+      "AC",
+      "AC",
+      "CA",
+      "AC",
+      "CG",
+      "GC",
+      "CG",
+      "GC"
+    ],
+    "birthdate": 1633121701000
+  },
+  {
+    "dna": [
+      "CT",
+      "TT",
+      "CT",
+      "GG",
+      "TC",
+      "CC",
+      "CC",
+      "CC",
+      "AA",
+      "CC",
+      "CC",
+      "CA",
+      "GC",
+      "GC",
+      "GC",
+      "GC"
+    ],
+    "birthdate": 1633123992000
+  },
+  {
+    "dna": [
+      "CC",
+      "TT",
+      "CC",
+      "GG",
+      "TC",
+      "CC",
+      "CC",
+      "CC",
+      "AA",
+      "CA",
+      "CC",
+      "CC",
+      "GC",
+      "GG",
+      "GG",
+      "CG"
+    ],
+    "birthdate": 1633124413000
+  },
+  {
+    "dna": [
+      "CT",
+      "TT",
+      "CT",
+      "TG",
+      "CT",
+      "CC",
+      "CC",
+      "CC",
+      "AC",
+      "CC",
+      "CA",
+      "CC",
+      "GG",
+      "CG",
+      "GG",
+      "GC"
+    ],
+    "birthdate": 1633124430000
+  }
+]
