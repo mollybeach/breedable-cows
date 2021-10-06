@@ -1,2 +1,2 @@
 # breedable-cows
-breed cows dna 
+breed cows   dna 
